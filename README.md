@@ -10,4 +10,5 @@ Este projeto tem como objetivo desenvolver um modelo de aprendizado de máquina 
 - **Treinamento do Modelo:** Treinar uma CNN para detectar comportamentos anômalos.
 - **Detecção de Anomalias:** Detectar anomalias em novos fluxos de vídeo usando o modelo treinado.
 
-
+## Agradecimentos
+Agradecimentos especiais à equipe da Cityseg pelo suporte e colaboração.
